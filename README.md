@@ -1,7 +1,1 @@
-<div align="center">
-<a href="https://epskid.github.io">
-
-`'); DROP TABLE ALL; --`
-
-</a>
-</div>
+i hope the AI bubble pops soon.
